@@ -1,0 +1,1 @@
+builds klasörünün içindeki exeyi çalıştırarak oyunu açabilirsiniz.
